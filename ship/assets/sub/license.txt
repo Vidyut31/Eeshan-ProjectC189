@@ -1,0 +1,11 @@
+Model Information:
+* title:	U-Boat
+* source:	https://sketchfab.com/3d-models/u-boat-4c7220aa60c04fd583cf961e43c4b7ef
+* author:	Oscar Söderholm (https://sketchfab.com/oscar.soderholm)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "U-Boat" (https://sketchfab.com/3d-models/u-boat-4c7220aa60c04fd583cf961e43c4b7ef) by Oscar Söderholm (https://sketchfab.com/oscar.soderholm) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
